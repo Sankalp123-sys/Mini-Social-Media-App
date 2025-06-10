@@ -1,1 +1,1 @@
-# Mini-Social-Media-App
+# CodeAlpha_Mini Social Media App
